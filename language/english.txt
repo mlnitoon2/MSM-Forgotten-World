@@ -7,6 +7,9 @@ lockrock_rare_bio=What do you get when you combine metal and a lockrock? Rare lo
 bopell=Bopell
 bopell_bio=Welcome to the monster choir, where all the best monsters are here to sing..... wait... why is bopell here? Do you even know them anyways? Formed when a stone is shaved eyeholes, another stone is shaped to form a hand, and with a bit of magic we get bopell!
 
+bopell_rare=Rare Bopell
+bopell_rare_bio=Rare Bopells are often very caring for their babies, but not when playing! Instead of a bell, they knock their nests with their children inside, luckily their children don't mind.
+
 triturtoud=Triturtoud
 triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sounding almost the same, you'd wonder if they know each other, and the answer is yes! Through some advanced tech in the monster world, they have been able to communicate, wow!
 
