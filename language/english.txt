@@ -4,6 +4,9 @@ lockrock_bio=The starter of all Key elementals. Evolving from having eyes on the
 bopell=Bopell
 bopell_bio=A bopell is a loud, yet facinating monster.
 
+triturtoud=Triturtoud
+triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sounding almost the same, you'd wonder if they know each other, and the answer is yes! Through some advanced tech in the monster world, they have been able to communicate, wow!
+
 credits_keyComposer=Key Island Composer
 credits_keyDesign=Key Island Design
 credits_help=Some help
