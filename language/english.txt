@@ -2,4 +2,4 @@ lockrock=Lockrock
 lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, these single elementals sure love to do their singing. Infact, there once was a party with all the lockrocks on Key Island!
 
 bopell=Bopell
-bopell_bio=a
+bopell_bio=A bopell is a loud, yet facinating monster.
