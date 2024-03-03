@@ -3,3 +3,7 @@ lockrock_bio=The starter of all Key elementals. Evolving from having eyes on the
 
 bopell=Bopell
 bopell_bio=A bopell is a loud, yet facinating monster.
+
+credits_keyComposer=Key Island Composer
+credits_keyDesign=Key Island Design
+credits_help=Some help
