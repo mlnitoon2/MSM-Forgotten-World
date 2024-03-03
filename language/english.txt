@@ -1,11 +1,17 @@
 lockrock=Lockrock
-lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, these single elementals sure love to do their singing. Infact, there once was a party with all the lockrocks on Key Island!
+lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, one thing you may not know about this monster is that it has perfect hygiene! You may think how without any arms, but with the help with [REDACTED] it can have the best teeth cleaning in the entire island!
+
+lockrock_rare=Rare Lockrock
+lockrock_rare_bio=What do you get when you combine metal and a lockrock? Rare lockrock, of course! These species have seen too much vhenshuns traveling by (somehow) Key Island, and wanted to be similar!
 
 bopell=Bopell
 bopell_bio=A bopell is a loud, yet facinating monster.
 
 triturtoud=Triturtoud
 triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sounding almost the same, you'd wonder if they know each other, and the answer is yes! Through some advanced tech in the monster world, they have been able to communicate, wow!
+
+triturtoud_rare=Rare Triturtoud
+triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly, the rare is the complete opposite! Instead of clouds, there are thunderclouds, the result of construction not being finished whilst triturtoud was walking through the island with it's eyes closed, and falling OFF the island! It took 7 hours for the monsters to bring rare triturtoud back.
 
 credits_keyComposer=Key Island Composer
 credits_keyDesign=Key Island Design
