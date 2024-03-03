@@ -13,6 +13,8 @@ triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sound
 triturtoud_rare=Rare Triturtoud
 triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly, the rare is the complete opposite! Instead of clouds, there are thunderclouds, the result of construction not being finished whilst triturtoud was walking through the island with it's eyes closed, and falling OFF the island! It took 7 hours for the monsters to bring rare triturtoud back.
 
+string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
+
 credits_keyComposer=Key Island Composer
-credits_keyDesign=Key Island Design
+credits_keyDesign=Key Island Design and Didgeridoo Design
 credits_help=Some help
