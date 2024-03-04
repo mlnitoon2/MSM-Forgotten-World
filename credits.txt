@@ -1,10 +1,11 @@
-(credits_keyComposer)
+credits_keyComposer
 Jasyak2
-
+endOfCredit
 (credits_keyDesign)
 Sneezer
-
+endOfCredit
 (credits_help)
 PyroMSM
 KrazeGames/RGD
 Raw Zebra
+endOfCredit
