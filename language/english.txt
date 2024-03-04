@@ -18,6 +18,9 @@ triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly
 
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
 
+credits_betaTester=Beta Testers
+credits_conceptArt=Concept Art
+
 credits_keyComposer=Key Island Composer
 credits_keyDesign=Key Island Design and some Designs
 credits_help=Some help
