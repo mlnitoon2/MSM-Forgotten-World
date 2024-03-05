@@ -21,3 +21,7 @@ string_unfinishedIsland=Esta ilha está inacabada! Alguns monstros podem não ca
 credits_keyComposer=Compositor Da Ilha das Chaves
 credits_keyDesign=Design Da Ilha das Chaves é Outros
 credits_help=Alguma Ajuda
+
+credits_betaTester=Testadores
+credits_conceptArt=Arte conceitual
+
