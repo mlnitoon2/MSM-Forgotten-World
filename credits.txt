@@ -1,11 +1,9 @@
-credits_keyComposer
 Jasyak2
-endOfCredit
-credits_keyDesign
 Sneezer
-endOfCredit
-credits_help
 PyroMSM
 KrazeGames
 Raw Zebra
-endOfCredit
+Puff
+CREATOR
+Canpake
+Auglur
