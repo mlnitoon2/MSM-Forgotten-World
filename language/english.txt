@@ -2,7 +2,7 @@ lockrock=Lockrock
 lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, one thing you may not know about this monster is that it has perfect hygiene! You may think how without any arms, but with the help with a bopells floating hand it can have the best teeth cleaning in the entire island!
 
 lockrock_rare=Rare Lockrock
-lockrock_rare_bio=What do you get when you combine metal and a lockrock? Rare lockrock, of course! These species have seen too much vhenshuns traveling by (somehow) Key Island, and wanted to be similar!
+lockrock_rare_bio=A company once tried to turn all monsters on Key Island into robots... only one succeeded, and you have... Rare Lockrock... They were going to have 2 arms and 2 legs but the original Lockrock attacked the company-
 
 bopell=Bopell
 bopell_bio=Welcome to the monster choir, where all the best monsters are here to sing..... wait... why is bopell here? Do you even know them anyways? Formed when a stone is shaved eyeholes, another stone is shaped to form a hand, and with a bit of magic we get bopell!
@@ -20,10 +20,3 @@ baepell=Baepell
 baepell_bio=The ancestor of the baepell is actually bopell! Explains why the name is similar.
 
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
-
-credits_betaTester=Beta Testers
-credits_conceptArt=Concept Art
-
-credits_keyComposer=Key Island Composer
-credits_keyDesign=Key Island Design and some Designs
-credits_help=Some help
