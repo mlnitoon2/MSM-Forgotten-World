@@ -19,4 +19,10 @@ triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly
 baepell=Baepell
 baepell_bio=The ancestor of the baepell is actually bopell! Explains why the name is similar.
 
+stomper=Stomper
+stomper_bio=The starter of Cartoon Island, how did they get here? Only the monster gods know. Anyways, this is a weird monster, not getting up to eat or anything, he just... sits there..
+
+stomper_rare=Rare Stomper
+stomper_rare_bio=Unlike the common stomper, rare stompers are environmentalists. They don't jump up and down, it kills the grass! Instead, they opt to use drums.
+
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
