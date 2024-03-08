@@ -2,7 +2,7 @@ lockrock=Tranrocha
 lockrock_bio=O iniciador de todos os elementais-chave. Evoluindo do fato de ter olhos na boca, uma coisa que talvez você não saiba sobre esse monstro é que ele tem uma higiene perfeita! Você pode pensar "como? sendo que eles não tem braços", mas com a ajuda de uma mão flutuante do Quartzino, ele pode ter os melhores dentes da ilha!
 
 lockrock_rare=Tranrocha Raro
-lockrock_rare_bio=O que você obtém quando combina metal e uma Tranrocha? Tranrocha Raro, é claro! Essas espécies viram muitos Vhençãos viajando pela (de alguma forma) Ilha das Chaves e queriam ser semelhantes!
+lockrock_rare_bio=Uma empresa tentou transformar todos os monstros da Ilha das Chaves em robôs... apenas um conseguiu, e você tem... Tranrocha Raro... Eles iam ter 2 braços e 2 pernas, mas o Tranrocha original atacou a empresa...
 
 bopell=Quartzino
 bopell_bio=Bem-vindo ao coral dos monstros, onde todos os melhores monstros estão aqui para cantar..... pera ai... porque o Quartzino esta aqui? Você ao menos os conhece? Formado quando uma pedra é raspada em buracos oculares, outra pedra é moldada para formar uma mão e, com um pouco de magia, obtemos o Quartzino!
@@ -17,11 +17,4 @@ triturtoud_rare=Rare Triturtoud
 triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly, the rare is the complete opposite! Instead of clouds, there are thunderclouds, the result of construction not being finished whilst triturtoud was walking through the island with it's eyes closed, and falling OFF the island! It took 7 hours for the monsters to bring rare triturtoud back.
 
 string_unfinishedIsland=Esta ilha está inacabada! Alguns monstros podem não cantar ou ter animações ruins/quebradas!
-
-credits_keyComposer=Compositor Da Ilha das Chaves
-credits_keyDesign=Design Da Ilha das Chaves é Outros
-credits_help=Alguma Ajuda
-
-credits_betaTester=Testadores
-credits_conceptArt=Arte conceitual
 
