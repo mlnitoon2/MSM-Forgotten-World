@@ -16,8 +16,8 @@ triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sound
 triturtoud_rare=Rare Triturtoud
 triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly, the rare is the complete opposite! Instead of clouds, there are thunderclouds, the result of construction not being finished whilst triturtoud was walking through the island with it's eyes closed, and falling OFF the island! It took 7 hours for the monsters to bring rare triturtoud back.
 
-baepell=Baepell
-baepell_bio=The ancestor of the baepell is actually bopell! Explains why the name is similar.
+glockenbopp=Glockenbopp
+glockenbopp_bio=This monster is a close relative to the bopell on Key Island, only difference is that.... why am I even saying this? It is the complete opposite!
 
 stomper=Stomper
 stomper_bio=The starter of Cartoon Island, how did they get here? Only the monster gods know. Anyways, this is a weird monster, not getting up to eat or anything, he just... sits there..
