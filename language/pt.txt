@@ -16,8 +16,8 @@ triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sound
 triturtoud_rare=Rare Triturtoud
 triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly, the rare is the complete opposite! Instead of clouds, there are thunderclouds, the result of construction not being finished whilst triturtoud was walking through the island with it's eyes closed, and falling OFF the island! It took 7 hours for the monsters to bring rare triturtoud back.
 
-baepell=Baepell
-baepell_bio=The ancestor of the baepell is actually bopell! Explains why the name is similar.
+glockenbopp=Marimzino
+glockenbopp_bio=Esse monstro é um parente próximo do Quartzino da Ilha das Chaves, a única diferença é que.... por que estou dizendo isso? Ele é totalmente o oposto!
 
 stomper=Pisoteador
 stomper_bio=Os iniciantes da ilha dos desenhos, como chegaram aqui? Só os monstros deuses sabem. De qualquer forma, esse é um monstro estranho, que não se levanta para comer nem nada, ele apenas... fica sentado...
