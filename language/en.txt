@@ -1,4 +1,4 @@
-lockrock=Lockrock_test
+lockrock=Lockrock
 lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, one thing you may not know about this monster is that it has perfect hygiene! You may think how without any arms, but with the help with a bopells floating hand it can have the best teeth cleaning in the entire island!
 
 lockrock_rare=Rare Lockrock
