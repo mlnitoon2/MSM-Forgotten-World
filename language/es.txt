@@ -1,0 +1,28 @@
+lockrock=Roca de bloqueo
+lockrock_bio=El iniciador de todos los elementales clave. Al evolucionar desde tener ojos en la boca, una cosa que quizás no sepas sobre este monstruo es que tiene una higiene perfecta. ¡Puedes pensar que sin brazos, pero con la ayuda de una mano flotante bopells puedes tener la mejor limpieza dental de toda la isla!
+
+lockrock_rare=Roca de bloqueo rara
+lockrock_rare_bio=Una vez una compañía intentó convertir a todos los monstruos de Key Island en robots... solo uno lo logró, y tú tienes... Lockrock raro... Iban a tener 2 brazos y 2 piernas pero el Lockrock original atacó a la compañía -
+
+bopell=Bopell
+bopell_bio=Bienvenido al coro de monstruos, donde los mejores monstruos están aquí para cantar..... espera... ¿por qué está bopell aquí? ¿Los conoces de todos modos? Se forma cuando a una piedra se le raspan los ojos, a otra piedra se le da forma para formar una mano, ¡y con un poco de magia conseguimos bopell!
+
+bopell_rare=Bopell raro
+bopell_rare_bio=Los Bopell raros suelen ser muy cariñosos con sus bebés, ¡pero no cuando juegan! En lugar de una campana, golpean sus nidos con sus hijos dentro, por suerte a sus hijos no les importa.
+
+triturtoud=Triturtoud
+triturtoud_bio=En este universo, en lugar de blarretes, tenemos Triturtouds. Suena casi igual, uno se preguntaría si se conocen, ¡y la respuesta es sí! A través de tecnología avanzada en el mundo de los monstruos, han podido comunicarse, ¡guau!
+
+triturtoud_rare=Triturtoud raro
+triturtoud_rare_bio=A diferencia del triturtoud común, que es todo suave y amigable, ¡el raro es todo lo contrario! En lugar de nubes, hay nubes de tormenta, el resultado de que la construcción no se terminó mientras Triturtoud caminaba por la isla con los ojos cerrados y se caía de la isla. A los monstruos les tomó 7 horas traer de vuelta el raro triturtoud.
+
+glockenbopp=Glockenbopp
+glockenbopp_bio=Este monstruo es un pariente cercano del bopell en Key Island, la única diferencia es que... ¿por qué digo esto? ¡Es todo lo contrario!
+
+stomper=pisoteador
+stomper_bio=El iniciador de Cartoon Island, ¿cómo llegaron aquí? Sólo los dioses monstruosos lo saben. De todos modos, este es un monstruo extraño, no se levanta para comer ni nada, él simplemente... se sienta ahí...
+
+stomper_rare=pisoteador raro
+stomper_rare_bio=A diferencia del pisoteador común, los pisoteador raros son ambientalistas. No saltan arriba y abajo, ¡mata la hierba! En cambio, optan por utilizar tambores.
+
+string_unfinishedIsland=¡Esta isla está sin terminar! ¡Es posible que algunos monstruos no canten o tengan animaciones malas o rotas!
