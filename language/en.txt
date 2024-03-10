@@ -1,3 +1,6 @@
+noggin=Noggin
+noggin_bio=Noggin bio
+
 lockrock=Lockrock
 lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, one thing you may not know about this monster is that it has perfect hygiene! You may think how without any arms, but with the help with a bopells floating hand it can have the best teeth cleaning in the entire island!
 
@@ -9,6 +12,12 @@ bopell_bio=Welcome to the monster choir, where all the best monsters are here to
 
 bopell_rare=Rare Bopell
 bopell_rare_bio=Rare Bopells are often very caring for their babies, but not when playing! Instead of a bell, they knock their nests with their children inside, luckily their children don't mind.
+
+bouldin=Bouldin
+bouldin_bio=Bouldin bio (too lazy to write for now, its fucking 3 am)
+
+didgeridoo=Didgeridoo
+didgeridoo_bio=Didgeridoo bio (same as bouldin, too lazy to write for now, its fucking 3 am)
 
 triturtoud=Triturtoud
 triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sounding almost the same, you'd wonder if they know each other, and the answer is yes! Through some advanced tech in the monster world, they have been able to communicate, wow!
