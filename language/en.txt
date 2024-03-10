@@ -17,7 +17,7 @@ bouldin=Bouldin
 bouldin_bio=Bouldin bio (too lazy to write for now, its fucking 3 am)
 
 didgeridoo=Didgeridoo
-didgeridoo_bio=Didgeridoo bio (same as bouldin, too lazy to write for now, its fucking 3 am)
+didgeridoo_bio=In a newely discovered world, sometimes you have to cut corners. That's why Didgeridoo is named after his instrument. Originally being unable to fly, in case of an emergency, Didgeridoos have evolved to have flying wings!
 
 triturtoud=Triturtoud
 triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sounding almost the same, you'd wonder if they know each other, and the answer is yes! Through some advanced tech in the monster world, they have been able to communicate, wow!
@@ -39,5 +39,10 @@ string_unfinishedIsland=This island is unfinished! Some monsters may not sing or
 island_MainGame=Key Island
 island_MainGame_bio=TBA
 island_SoftIsland=Soft Island
+island_SoftIsland_bio=TBA
 island_MushroomIsle=Mushroom Isle
+island_MushroomIsle_bio=TBA
 island_ArcaneIsland=Arcane Island
+island_ArcaneIsland_bio=TBA
+island_CartoonIsland=Cartoon Island
+island_CartoonIsland_bio=TBA
