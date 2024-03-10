@@ -1,3 +1,6 @@
+noggin=Cabeça-dura
+noggin_bio=Desc do Cabeça-dura
+
 lockrock=Tranrocha
 lockrock_bio=O iniciador de todos os elementais-chave. Evoluindo do fato de ter olhos na boca, uma coisa que talvez você não saiba sobre esse monstro é que ele tem uma higiene perfeita! Você pode pensar "como? sendo que eles não tem braços", mas com a ajuda de uma mão flutuante do Quartzino, ele pode ter os melhores dentes da ilha!
 
@@ -10,11 +13,17 @@ bopell_bio=Bem-vindo ao coral dos monstros, onde todos os melhores monstros est�
 bopell_rare=Quartzino Raro
 bopell_rare_bio=Os Quartzinos Raros costumam ser muito carinhosos com seus bebês, mas não quando estão brincando! Em vez de um sino, eles batem em seus ninhos com seus filhos dentro, felizmente seus filhos não se importam.
 
-triturtoud=Triturtoud
-triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sounding almost the same, you'd wonder if they know each other, and the answer is yes! Through some advanced tech in the monster world, they have been able to communicate, wow!
+bouldin=Bouldin
+bouldin_bio=Bouldin bio (too lazy to write for now, its fucking 3 am)
 
-triturtoud_rare=Rare Triturtoud
-triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly, the rare is the complete opposite! Instead of clouds, there are thunderclouds, the result of construction not being finished whilst triturtoud was walking through the island with it's eyes closed, and falling OFF the island! It took 7 hours for the monsters to bring rare triturtoud back.
+didgeridoo=Didgeridoo
+didgeridoo_bio=Didgeridoo bio (same as bouldin, too lazy to write for now, its fucking 3 am)
+
+triturtoud=Trisdode
+triturtoud_bio=Nesse universo, em vez de Soarminhos, temos Trisdodes. Com um som quase igual, você deve estar se perguntando se eles se conhecem, e a resposta é sim! Por meio de uma tecnologia avançada no mundo dos monstros, eles conseguiram se comunicar, uau!
+
+triturtoud_rare=Trisdode Raro
+triturtoud_rare_bio=Ao contrário do Trisdode comum, que é todo macio e amigável, o raro é totalmente o oposto! Em vez de nuvens, há nuvens de trovões, resultado do fato de a construção não ter sido concluída enquanto o Trisdode andava pela ilha com os olhos fechados e caiu da ilha! Foram necessárias 7 horas para que os monstros trouxessem o Trisdode raro de volta.
 
 glockenbopp=Marimzino
 glockenbopp_bio=Esse monstro é um parente próximo do Quartzino da Ilha das Chaves, a única diferença é que.... por que estou dizendo isso? Ele é totalmente o oposto!
@@ -27,3 +36,8 @@ stomper_rare_bio=Ao contrário do pisoteador comum, os pisoteadores raros são a
 
 string_unfinishedIsland=Esta ilha está inacabada! Alguns monstros podem não cantar ou ter animações ruins/quebradas!
 
+island_MainGame=Ilha das Chaves
+island_MainGame_bio=TBA
+island_SoftIsland=Ilha Suave
+island_MushroomIsle=Ilha dos Cogumelos
+island_ArcaneIsland=ilha dos Desenhos
