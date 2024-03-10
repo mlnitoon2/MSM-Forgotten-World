@@ -26,3 +26,9 @@ stomper_rare=Rare Stomper
 stomper_rare_bio=Unlike the common stomper, rare stompers are environmentalists. They don't jump up and down, it kills the grass! Instead, they opt to use drums.
 
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
+
+island_MainGame=Key Island
+island_MainGame_bio=TBA
+island_SoftIsland=Soft Island
+island_MushroomIsle=Mushroom Isle
+island_ArcaneIsland=Arcane Island
