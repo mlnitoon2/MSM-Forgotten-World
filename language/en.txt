@@ -14,7 +14,7 @@ bopell_rare=Rare Bopell
 bopell_rare_bio=Rare Bopells are often very caring for their babies, but not when playing! Instead of a bell, they knock their nests with their children inside, luckily their children don't mind.
 
 bouldin=Bouldin
-bouldin_bio=Bouldin bio (too lazy to write for now, its fucking 3 am)
+bouldin_bio=Bouldin bio
 
 didgeridoo=Didgeridoo
 didgeridoo_bio=In a newely discovered world, sometimes you have to cut corners. That's why Didgeridoo is named after his instrument. Originally being unable to fly, in case of an emergency, Didgeridoos have evolved to have flying wings!
@@ -35,7 +35,7 @@ stomper_rare=Rare Stomper
 stomper_rare_bio=Unlike the common stomper, rare stompers are environmentalists. They don't jump up and down, it kills the grass! Instead, they opt to use drums.
 
 vhenshun=Vhenshun
-vhenshun_bio=Inside the ethereal workshop lied a certain Vhenshun. He was getting bored of being encased inside a collosal, so with the help of a few other vhenshuns, they wiggled outside of the ethereal collosal eye, but accidentally fell into the sea! In a state of chaos, a portal emerged, giving the scared monsters a second chance. They went through, ending up in the forgotten worlds.
+vhenshun_bio=Inside the ethereal workshop lied a certain Vhenshun. He was getting bored of being encased inside it's home collosal, so with the help of a few other vhenshuns, they wiggled outside of the ethereal collosal eye, but accidentally fell into the sea! In a state of chaos, a portal emerged, giving the scared monsters a second chance. They went through, ending up in the forgotten worlds.
 
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
 
