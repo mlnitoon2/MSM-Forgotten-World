@@ -34,6 +34,9 @@ stomper_bio=Os iniciantes da ilha dos desenhos, como chegaram aqui? Só os monst
 stomper_rare=Pisoteador Raro
 stomper_rare_bio=Ao contrário do pisoteador comum, os pisoteadores raros são ambientalistas. Eles não pulam para cima e para baixo, pois isso mata a grama! Em vez disso, eles optam por usar tambores.
 
+vhenshun=Vhenção
+vhenshun_bio=Dentro do Ateliê Etéreo havia um certo Vhenção. Ele estava ficando entediado de ficar enclausurado dentro de seu colossal doméstico, então, com a ajuda de alguns outros Vhençãos, eles se mexeram para fora do olho do colossal etéreo, mas acidentalmente caíram no mar! No meio do caos, surgiu um portal que deu uma segunda chance aos monstros assustados. Eles atravessaram, indo parar nos mundos esquecidos.
+
 string_unfinishedIsland=Esta ilha está inacabada! Alguns monstros podem não cantar ou ter animações ruins/quebradas!
 
 island_MainGame=Ilha das Chaves
