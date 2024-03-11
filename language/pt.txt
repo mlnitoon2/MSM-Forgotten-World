@@ -13,11 +13,11 @@ bopell_bio=Bem-vindo ao coral dos monstros, onde todos os melhores monstros est�
 bopell_rare=Quartzino Raro
 bopell_rare_bio=Os Quartzinos Raros costumam ser muito carinhosos com seus bebês, mas não quando estão brincando! Em vez de um sino, eles batem em seus ninhos com seus filhos dentro, felizmente seus filhos não se importam.
 
-bouldin=Bouldin
-bouldin_bio=Bouldin bio (too lazy to write for now, its fucking 3 am)
+bouldin=Pedregulin
+bouldin_bio=Desc do Pedregulin
 
 didgeridoo=Didgeridoo
-didgeridoo_bio=Didgeridoo bio (same as bouldin, too lazy to write for now, its fucking 3 am)
+didgeridoo_bio=Em um mundo recém-descoberto, às vezes é preciso cortar caminho. É por isso que o Didgeridoo recebeu o nome de seu instrumento. Originalmente incapazes de voar, em caso de emergência, os Didgeridoos evoluíram para ter asas voadoras!
 
 triturtoud=Trisdode
 triturtoud_bio=Nesse universo, em vez de Soarminhos, temos Trisdodes. Com um som quase igual, você deve estar se perguntando se eles se conhecem, e a resposta é sim! Por meio de uma tecnologia avançada no mundo dos monstros, eles conseguiram se comunicar, uau!
@@ -39,5 +39,10 @@ string_unfinishedIsland=Esta ilha está inacabada! Alguns monstros podem não ca
 island_MainGame=Ilha das Chaves
 island_MainGame_bio=TBA
 island_SoftIsland=Ilha Suave
+island_SoftIsland_bio=TBA
 island_MushroomIsle=Ilha dos Cogumelos
-island_ArcaneIsland=ilha dos Desenhos
+island_MushroomIsle_bio=TBA
+island_ArcaneIsland=Ilha Arcana
+island_ArcaneIsland_bio=TBA
+island_CartoonIsland=ilha dos Desenhos
+island_CartoonIsland_bio=TBA
