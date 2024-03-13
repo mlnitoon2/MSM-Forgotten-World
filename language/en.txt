@@ -47,5 +47,5 @@ island_MushroomIsle=Mushroom Isle
 island_MushroomIsle_bio=TBA
 island_ArcaneIsland=Arcane Island
 island_ArcaneIsland_bio=TBA
-island_CartoonIsland=Cartoon Island
-island_CartoonIsland_bio=TBA
+island_EggstravaganzaIsland=Eggstravaganza Island
+island_EggstravaganzaIsland_bio=TBA
