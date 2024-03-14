@@ -19,11 +19,11 @@ bouldin_bio=Desc do Pedregulin
 didgeridoo=Didgeridoo
 didgeridoo_bio=Em um mundo recém-descoberto, às vezes é preciso cortar caminho. É por isso que o Didgeridoo recebeu o nome de seu instrumento. Originalmente incapazes de voar, em caso de emergência, os Didgeridoos evoluíram para ter asas voadoras!
 
-triturtoud=Trisdode
-triturtoud_bio=Nesse universo, em vez de Soarminhos, temos Trisdodes. Com um som quase igual, você deve estar se perguntando se eles se conhecem, e a resposta é sim! Por meio de uma tecnologia avançada no mundo dos monstros, eles conseguiram se comunicar, uau!
+triturtoud=Tartanuvem
+triturtoud_bio=Nesse universo, em vez de Soarminhos, temos Tartanuvems. Com um som quase igual, você deve estar se perguntando se eles se conhecem, e a resposta é sim! Por meio de uma tecnologia avançada no mundo dos monstros, eles conseguiram se comunicar, uau!
 
-triturtoud_rare=Trisdode Raro
-triturtoud_rare_bio=Ao contrário do Trisdode comum, que é todo macio e amigável, o raro é totalmente o oposto! Em vez de nuvens, há nuvens de trovões, resultado do fato de a construção não ter sido concluída enquanto o Trisdode andava pela ilha com os olhos fechados e caiu da ilha! Foram necessárias 7 horas para que os monstros trouxessem o Trisdode raro de volta.
+triturtoud_rare=Tartanuvem Raro
+triturtoud_rare_bio=Ao contrário do Tartanuvem comum, que é todo macio e amigável, o raro é totalmente o oposto! Em vez de nuvens, há nuvens de trovões, resultado do fato de a construção não ter sido concluída enquanto o Tartanuvem andava pela ilha com os olhos fechados e caiu da ilha! Foram necessárias 7 horas para que os monstros trouxessem o Tartanuvem raro de volta.
 
 glockenbopp=Marimzino
 glockenbopp_bio=Esse monstro é um parente próximo do Quartzino da Ilha das Chaves, a única diferença é que.... por que estou dizendo isso? Ele é totalmente o oposto!
@@ -47,5 +47,5 @@ island_MushroomIsle=Ilha dos Cogumelos
 island_MushroomIsle_bio=TBA
 island_ArcaneIsland=Ilha Arcana
 island_ArcaneIsland_bio=TBA
-island_CartoonIsland=ilha dos Desenhos
-island_CartoonIsland_bio=TBA
+island_EggstravaganzaIsland=Ilha da Ovoextravagancia
+island_EggstravaganzaIsland_bio=TBA
