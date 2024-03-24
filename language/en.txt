@@ -49,3 +49,5 @@ island_ArcaneIsland=Arcane Island
 island_ArcaneIsland_bio=TBA
 island_EggstravaganzaIsland=Eggstravaganza Island
 island_EggstravaganzaIsland_bio=TBA
+island_DreamMythicalIsland=Dream Mythical Island
+island_DreamMythicalIsland_bio=You've heard of Mythical Island, but have you heard of Dream Mythical Island? Wanting to escape the dreamscape, a couple of the Dream Mythicals somehow left... Not even we know how, and then formed Dream Mythical Island.
