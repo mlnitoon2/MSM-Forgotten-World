@@ -28,9 +28,6 @@ triturtoud_rare_bio=Unlike the common triturtoud, which is all soft and friendly
 glockenbopp=Glockenbopp
 glockenbopp_bio=This monster is a close relative to the bopell on Key Island, only difference is that.... why am I even saying this? It is the complete opposite!
 
-stomper=Stomper
-stomper_bio=The starter of Cartoon Island, how did they get here? Only the monster gods know. Anyways, this is a weird monster, not getting up to eat or anything, he just... sits there..
-
 stomper_rare=Rare Stomper
 stomper_rare_bio=Unlike the common stomper, rare stompers are environmentalists. They don't jump up and down, it kills the grass! Instead, they opt to use drums.
 
