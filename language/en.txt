@@ -37,7 +37,7 @@ vhenshun_bio=Inside the ethereal workshop lied a certain Vhenshun. He was gettin
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
 
 island_MainGame=Key Island
-island_MainGame_bio=TBA
+island_MainGame_bio=The first island discovered in the Forgotten World. Key Island, home of the key element monsters.
 island_SoftIsland=Soft Island
 island_SoftIsland_bio=TBA
 island_MushroomIsle=Mushroom Isle
