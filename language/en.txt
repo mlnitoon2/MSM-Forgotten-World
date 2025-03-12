@@ -8,7 +8,7 @@ lockrock_rare=Rare Lockrock
 lockrock_rare_bio=A company once tried to turn all monsters on Key Island into robots... only one succeeded, and you have... Rare Lockrock... They were going to have 2 arms and 2 legs but the original Lockrock attacked the company-
 
 bopell=Bopell
-bopell_bio=Welcome to the monster choir, where all the best monsters are here to sing..... wait... why is bopell here? Do you even know them anyways? Formed when a stone is shaved eyeholes, another stone is shaped to form a hand, and with a bit of magic we get bopell!
+bopell_bio=Formed when a stone is shaved eyeholes, another stone is shaped to form a hand, and with a bit of magic we get bopell!
 
 bopell_rare=Rare Bopell
 bopell_rare_bio=Rare Bopells are often very caring for their babies, but not when playing! Instead of a bell, they knock their nests with their children inside, luckily their children don't mind.
@@ -17,7 +17,7 @@ bouldin=Bouldin
 bouldin_bio=Bouldin bio
 
 didgeridoo=Didgeridoo
-didgeridoo_bio=In a newely discovered world, sometimes you have to cut corners. That's why Didgeridoo is named after his instrument. Originally being unable to fly, in case of an emergency, Didgeridoos have evolved to have flying wings!
+didgeridoo_bio=In a newely discovered world, sometimes you have to cut corners. That's why Didgeridoo is named after their instrument. Originally being unable to fly, in case of an emergency, Didgeridoos have evolved to have flying wings!
 
 triturtoud=Triturtoud
 triturtoud_bio=In this universe, instead of blarrets, we have Triturtouds. Sounding almost the same, you'd wonder if they know each other, and the answer is yes! Through some advanced tech in the monster world, they have been able to communicate, wow!
@@ -34,6 +34,30 @@ stomper_rare_bio=Unlike the common stomper, rare stompers are environmentalists.
 vhenshun=Vhenshun
 vhenshun_bio=Inside the ethereal workshop lied a certain Vhenshun. He was getting bored of being encased inside it's home collosal, so with the help of a few other vhenshuns, they wiggled outside of the ethereal collosal eye, but accidentally fell into the sea! In a state of chaos, a portal emerged, giving the scared monsters a second chance. They went through, ending up in the forgotten worlds.
 
+pedo_riot=Riotlove
+pedo_riot_bio=Riot is the maker of Bacons Bussy show. everyone in the show has an orgy every end of the episode and everyone likes it. Riot is the richest of the playground because of this.
+
+pedo_kingboskus=King Boskus
+pedo_kingboskus_bio=King boskus is not supposed to be here. But as rumors spread around, there's a spot where alot of people need to be for the crowd to die.
+
+pedo_noggin=Baby Noggin
+pedo_noggin_bio=Noggin is one of the first victims of the playground, forced to stay. The thumps it makes brings satisfaction to the pedos. That's the only reason why he's here.
+
+pedo_riffraff=Riffraff
+pedo_riffraff_bio=One of the most known on the playground. Riffraff wants to be more at kids homes than the playground, ask bumbleboi, they'd know.
+
+pedo_turbalite=Turbalite
+pedo_turbalite_bio=Turbalite is one of the many groomed in the playground. He's a weird one because he wants to stay here. He's an odd fella, a homie with an extra chromie. He's also a fleshlight so yea
+
+pedo_arvout=Arvout
+pedo_arvout_bio=The Arvout is one of the most known around the playground. They groom and groom until their arms are sore and they're able to use the playground as a luring device for kids.\n\n\nFunfact: Arvout asked me for nitro. - Ustrel
+
+pedo_matthewthebowgart=Matthew The Bowgart
+pedo_matthewthebowgart_bio=Matthew the bowgart is a kayna FANATIC! He smells like ass and has 5 body pillows of her with presumably his nut dripping out of each of them. Noone minds. however as the playground is supposedly accepting to everyone.
+
+pedo_fero=Fero
+pedo_fero_bio=Fero is a schizophrenic friend who makes people cut. She had a taste for razors and has a collection like a fat cows collection of naked anime girls in his closet.
+
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
 
 island_MainGame=Key Island
@@ -49,4 +73,4 @@ island_EggstravaganzaIsland_bio=TBA
 island_DreamMythicalIsland=Dream Mythical Island
 island_DreamMythicalIsland_bio=You've heard of Mythical Island, but have you heard of Dream Mythical Island? Wanting to escape the dreamscape, a couple of the Dream Mythicals somehow left... Not even we know how, and then formed Dream Mythical Island.
 island_PedoPlayground=Pedo Playground
-island_PedoPlayground_bio=Uhm?
+island_PedoPlayground_bio=Uhm?\nIsland created by Ustrel
