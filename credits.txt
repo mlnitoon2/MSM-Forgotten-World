@@ -1,9 +1,7 @@
 Jasyak2 - Composer
-Sneezer - Beta Tester
+Sneezer - Composer and Artist
 PyroMSM - Additional Scripting
 KrazeGames - Scripter
-Puff - Beta Tester and Artist
-CREATOR - Beta Tester
+Puffe - Artist
 Canpake - Rare Triturtoud concept
-Auglur - Beta Tester
-Blarret the blarret - Translation
+Blarret the blarret - Portuguese Translation
