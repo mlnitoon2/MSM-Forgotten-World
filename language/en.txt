@@ -5,7 +5,7 @@ lockrock=Lockrock
 lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, one thing you may not know about this monster is that it has perfect hygiene! You may think how without any arms, but with the help with a bopells floating hand it can have the best teeth cleaning in the entire island!
 
 lockrock_rare=Rare Lockrock
-lockrock_rare_bio=A company once tried to turn all monsters on Key Island into robots... only one succeeded, and you have... Rare Lockrock... They were going to have 2 arms and 2 legs but the original Lockrock attacked the company-
+lockrock_rare_bio=A company once tried to turn all monsters on Key Island into robots, but only one succeeded, and you have... Rare Lockrock... They were going to have 2 arms and 2 legs but the original Lockrock attacked the company-
 
 bopell=Bopell
 bopell_bio=Formed when a stone is shaved eyeholes, another stone is shaped to form a hand, and with a bit of magic we get bopell!
