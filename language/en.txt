@@ -73,4 +73,4 @@ island_EggstravaganzaIsland_bio=TBA
 island_DreamMythicalIsland=Dream Mythical Island
 island_DreamMythicalIsland_bio=You've heard of Mythical Island, but have you heard of Dream Mythical Island? Wanting to escape the dreamscape, a couple of the Dream Mythicals somehow left... Not even we know how, and then formed Dream Mythical Island.
 island_PedoPlayground=Pedo Playground
-island_PedoPlayground_bio=Uhm?\nIsland created by Ustrel
+island_PedoPlayground_bio=The Pedo Playground is a luring device created by Arvout and Riffraff to lure little kids to. They are able to do this by creating music helped by the victims they've groomed. A bunch of pedos and kids come and by but the ones who stay are the one who make the impact. Every pedo in here has a backstory that they talk about on Friday Bingo nights and it's fairly peaceful despite everyone's varying levels of weirdness.\nIsland created by Ustrel
