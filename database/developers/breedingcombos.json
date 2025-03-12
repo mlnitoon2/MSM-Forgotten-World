@@ -1,0 +1,35 @@
+{
+  "breeding_combos": [
+    { "element_1": "C", "element_2": "D", "result": "CD", "rarity": 100 },
+    { "element_1": "C", "element_2": "E", "result": "CE", "rarity": 100 },
+    { "element_1": "C", "element_2": "F", "result": "CF", "rarity": 100 },
+    { "element_1": "D", "element_2": "E", "result": "DE", "rarity": 100 },
+    { "element_1": "D", "element_2": "F", "result": "DF", "rarity": 100 },
+    { "element_1": "E", "element_2": "F", "result": "EF", "rarity": 100 },
+
+    { "element_1": "CD", "element_2": "E", "result": "CDE", "rarity": 100 },
+    { "element_1": "CE", "element_2": "D", "result": "CDE", "rarity": 100 },
+    { "element_1": "DE", "element_2": "C", "result": "CDE", "rarity": 100 },
+    { "element_1": "CD", "element_2": "F", "result": "CDF", "rarity": 100 },
+    { "element_1": "CF", "element_2": "D", "result": "CDF", "rarity": 100 },
+    { "element_1": "DF", "element_2": "C", "result": "CDF", "rarity": 100 },
+    { "element_1": "CE", "element_2": "F", "result": "CEF", "rarity": 100 },
+    { "element_1": "CF", "element_2": "E", "result": "CEF", "rarity": 100 },
+    { "element_1": "EF", "element_2": "C", "result": "CEF", "rarity": 100 },
+    { "element_1": "DE", "element_2": "F", "result": "DEF", "rarity": 100 },
+    { "element_1": "DF", "element_2": "E", "result": "DEF", "rarity": 100 },
+    { "element_1": "EF", "element_2": "D", "result": "DEF", "rarity": 100 },
+
+    { "element_1": "CDE", "element_2": "F", "result": "CDEF", "rarity": 30 },
+    { "element_1": "CDF", "element_2": "E", "result": "CDEF", "rarity": 30 },
+    { "element_1": "CEF", "element_2": "D", "result": "CDEF", "rarity": 30 },
+    { "element_1": "DEF", "element_2": "C", "result": "CDEF", "rarity": 30 },
+    { "element_1": "CD", "element_2": "EF", "result": "CDEF", "rarity": 30 },
+    { "element_1": "CE", "element_2": "DF", "result": "CDEF", "rarity": 30 },
+    { "element_1": "CF", "element_2": "DE", "result": "CDEF", "rarity": 30 },
+
+    { "element_1": "CDEF", "element_2": "CE", "result": "CF_rare", "rarity": 10 },
+    { "element_1": "CDE", "element_2": "C", "result": "CDEF_rare", "rarity": 10 },
+    { "element_1": "CDEF", "element_2": "CEF", "result": "F_rare", "rarity": 10 }
+  ]
+}
