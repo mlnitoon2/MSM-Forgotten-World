@@ -1,5 +1,76 @@
 {
   "monster_data": [
-    { "gene": "A"
+    { 
+      "gene": "A",
+      "beats": []
+      },
+    {
+      "gene": "B",
+      "beats": []
+    },
+    {
+      "gene": "C",
+      "db_name": "noggin",
+      "beats": {
+        "MainGame": {
+          "audio_beats": [1, 8, 17, 24, 31, 38],
+          "animation_beats": [1, 8, 17, 24, 31, 38]
+        }
+      },
+      "tracks": {
+        "MainGame": {
+          "audio_tracks": ["KeyIslandNogginT1", "KeyIslandNogginT1", "KeyIslandNogginT1", "KeyIslandNogginT1", "KeyIslandNogginT1", "KeyIslandNogginT1"],
+          "animation_tracks": ["Noggin_KeyIsland_Track1", "Noggin_KeyIsland_Track1", "Noggin_KeyIsland_Track1", "Noggin_KeyIsland_Track1", "Noggin_KeyIsland_Track1", "Noggin_KeyIsland_Track1"]
+        }
+      }
+    },
+    {
+      "gene": "D",
+      "db_name": "toejammer",
+      "beats": {
+        "MainGame": {
+          "audio_beats": [],
+          "animation_beats": []
+        }
+      },
+      "tracks": {
+        "MainGame": {
+          "audio_tracks": [],
+          "animation_tracks": []
+        }
+      }
+    },
+    {
+      "gene": "E",
+      "db_name": "mammott",
+      "beats": {
+        "MainGame": {
+          "audio_beats": [],
+          "animation_beats": []
+        }
+      },
+      "tracks": {
+        "MainGame": {
+          "audio_tracks": [],
+          "animation_tracks": []
+        }
+      }
+    },
+    {
+      "gene": "F",
+      "db_name": "lockrock",
+      "beats": {
+        "MainGame": {
+          "audio_beats": [16, 24, 32, 40, 48, 56, 64],
+          "animation_beats": [16, 24, 32, 40, 48, 56, 64]
+        }
+      },
+      "tracks": {
+        "MainGame": {
+          "audio_tracks": ["KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1"],
+          "animation_tracks": ["LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1"]
+        }
+      }
+    }
   ]
 }
