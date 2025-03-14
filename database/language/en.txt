@@ -13,7 +13,7 @@ bopell_bio=Formed when a stone is shaved eyeholes, another stone is shaped to fo
 bopell_rare=Rare Bopell
 bopell_rare_bio=Rare Bopells are often very caring for their babies, but not when playing! Instead of a bell, they knock their nests with their children inside, luckily their children don't mind.
 
-bouldin=Bouldin
+bouldin=Bouldiner
 bouldin_bio=Bouldin bio
 
 didgeridoo=Didgeridoo
