@@ -1,20 +1,20 @@
 noggin=Noggin
-noggin_bio=Noggin bio
+noggin_bio=A solid foundation of rhythm, Noggin is the heartbeat of any island! With a sturdy head and a thumping beat, it keeps the music going strong.
 
 lockrock=Lockrock
 lockrock_bio=The starter of all Key elementals. Evolving from having eyes on their mouths, one thing you may not know about this monster is that it has perfect hygiene! You may think how without any arms, but with the help with a bopells floating hand it can have the best teeth cleaning in the entire island!
 
 lockrock_rare=Rare Lockrock
-lockrock_rare_bio=A company once tried to turn all monsters on Key Island into robots, but only one succeeded, and you have... Rare Lockrock... They were going to have 2 arms and 2 legs but the original Lockrock attacked the company-
+lockrock_rare_bio=An experiment gone wrong… or right? A company once attempted to mechanize Key Islands monsters, but only one transformation succeeded, Rare Lockrock. Originally meant to have arms and legs, the process was cut short when it fought back!
 
 bopell=Bopell
-bopell_bio=Bopells are quiet creatures. They usually don't involve themself into any sort of situation that is unpleasent. They just like to Ding their Bells. They're formed when a stone is shaved eyeholes, another stone is shaped to form a hand, and with a bit of magic we get bopell!
+bopell_bio=Bopells are peaceful creatures who avoid conflict, preferring instead to chime their bells in harmony. They are formed through a mystical process, where stone is carved into shape and infused with magic to bring them to life.
 
 bopell_rare=Rare Bopell
 bopell_rare_bio=Rare Bopells are often very caring for their babies, but not when playing! Instead of a bell, they knock their nests with their children inside, luckily their children don't mind.
 
 bouldin=Bouldin
-bouldin_bio=Bouldin bio
+bouldin_bio=With a body as tough as stone and a heart as steady as a drum, Bouldin provides a deep, resonant whistle that calms the air. Though its expression is stoic, its beats are full of energy and life!
 
 didgeridoo=Didgeridoo
 didgeridoo_bio=In a newely discovered world, sometimes you have to cut corners. That's why Didgeridoo is named after their instrument. Originally being unable to fly, in case of an emergency, Didgeridoos have evolved to have flying wings!
