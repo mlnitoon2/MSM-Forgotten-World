@@ -2,7 +2,7 @@
   "config": {
     "server_ip": "127.0.0.1",
     "server_port": "9933",
-    "game_version": "1.0.3",
+    "game_version": "1.0.4",
     "minimum_game_version": "1.0.3",
     "reconnect_attempts": 3
   }
