@@ -61,7 +61,7 @@ pedo_fero_bio=Fero is a schizophrenic friend who makes people cut. She had a tas
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
 
 island_MainGame=Key Island
-island_MainGame_bio=The first island discovered in the Forgotten World. Key Island, home of the key element monsters.
+island_MainGame_bio=The first island discovered in the Forgotten World, Key Island is home to the mysterious Key Elemental monsters. Here, ancient rhythms and new discoveries shape the music of this land.
 island_SoftIsland=Soft Island
 island_SoftIsland_bio=TBA
 island_MushroomIsle=Mushroom Isle
