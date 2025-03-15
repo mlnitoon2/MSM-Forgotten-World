@@ -3,7 +3,7 @@
     "server_ip": "127.0.0.1",
     "server_port": "9933",
     "game_version": "1.0.4",
-    "minimum_game_version": "1.0.3",
+    "minimum_game_version": "1.0.4",
     "reconnect_attempts": 3,
     "latest_game_version_download_url": "https://www.mediafire.com/file/y38pdsvljbncdub/103.apk/file"
   }
