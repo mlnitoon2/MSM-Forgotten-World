@@ -66,6 +66,10 @@ string_underground_noResources=You don't have enough resources to send this Mons
 string_underground_existing=There is already a <monsterName> in Underground <islandName>!
 string_underground_space=There is no available space in Underground <islandName> for this Monster!
 
+string_quest_complete=Quest complete! You've earned <rewards>!
+
+string_event_ended=This event has ended. Better luck next time!
+
 string_loading_internetConnection=Checking Internet Connection
 string_loading_checkBanList=Checking Ban List
 string_loading_banned=You Are Banned! Reason:
