@@ -57,6 +57,9 @@ pedo_fero_bio=Fero is a schizophrenic friend who makes people cut. She had a tas
 
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
 
+string_underground_confirmation=Are you sure you want to send this Monster to Underground <islandName>?
+string_underground_level=This Monster needs to be Level 20 to be sent to Underground <islandName>!
+
 string_loading_internetConnection=Checking Internet Connection
 string_loading_checkBanList=Checking Ban List
 string_loading_banned=You Are Banned! Reason:
