@@ -31,9 +31,6 @@ glockenbopp_bio=This monster is a close relative to the bopell on Key Island, on
 stomper_rare=Rare Stomper
 stomper_rare_bio=Unlike the common stomper, rare stompers are environmentalists. They don't jump up and down, it kills the grass! Instead, they opt to use drums.
 
-vhenshun=Vhenshun
-vhenshun_bio=Inside the ethereal workshop lied a certain Vhenshun. He was getting bored of being encased inside it's home collosal, so with the help of a few other vhenshuns, they wiggled outside of the ethereal collosal eye, but accidentally fell into the sea! In a state of chaos, a portal emerged, giving the scared monsters a second chance. They went through, ending up in the forgotten worlds.
-
 pedo_riot=Riotlove
 pedo_riot_bio=Riot is the maker of Bacons Bussy show. everyone in the show has an orgy every end of the episode and everyone likes it. Riot is the richest of the playground because of this.
 
@@ -80,15 +77,11 @@ string_err_updates2=Error Downloading Update File!
 
 island_MainGame=Key Island
 island_MainGame_bio=The first island discovered in the Forgotten World, Key Island is home to the mysterious Key Elemental monsters. Here, ancient rhythms and new discoveries shape the music of this land.
+island_mirrorKeyIsland=Mirror Key Island
+island_mirrorKeyIsland=A distorted version of Key Island, Mirror Key Island has a strange, yet familiar feel. The Key Elemental monsters here sound different, as if their music has changed over time. Something about this island seems mysterious, waiting to be uncovered.
 island_SoftIsland=Soft Island
 island_SoftIsland_bio=TBA
-island_MushroomIsle=Mushroom Isle
-island_MushroomIsle_bio=TBA
-island_ArcaneIsland=Arcane Island
-island_ArcaneIsland_bio=TBA
 island_EggstravaganzaIsland=Eggstravaganza Island
 island_EggstravaganzaIsland_bio=TBA
-island_DreamMythicalIsland=Dream Mythical Island
-island_DreamMythicalIsland_bio=You've heard of Mythical Island, but have you heard of Dream Mythical Island? Wanting to escape the dreamscape, a couple of the Dream Mythicals somehow left... Not even we know how, and then formed Dream Mythical Island.
 island_PedoPlayground=Pedo Playground
 island_PedoPlayground_bio=The Pedo Playground is a luring device created by Arvout and Riffraff to lure little kids to. They are able to do this by creating music helped by the victims they've groomed. A bunch of pedos and kids come and by but the ones who stay are the one who make the impact. Every pedo in here has a backstory that they talk about on Friday Bingo nights and it's fairly peaceful despite everyone's varying levels of weirdness.\nIsland created by Ustrel
