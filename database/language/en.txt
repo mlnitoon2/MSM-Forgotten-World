@@ -75,13 +75,28 @@ string_loading_island=Heading to Island
 string_err_updates=Error Downloading Updates!
 string_err_updates2=Error Downloading Update File!
 
+string_pg13_island=This island contains content that may not be suitable for younger players.
+
 island_MainGame=Key Island
 island_MainGame_bio=The first island discovered in the Forgotten World, Key Island is home to the mysterious Key Elemental monsters. Here, ancient rhythms and new discoveries shape the music of this land.
+
 island_mirrorKeyIsland=Mirror Key Island
 island_mirrorKeyIsland=A distorted version of Key Island, Mirror Key Island has a strange, yet familiar feel. The Key Elemental monsters here sound different, as if their music has changed over time. Something about this island seems mysterious, waiting to be uncovered.
+
+island_undergroundKeyIsland=Key Island Underground
+island_undergroundKeyIsland_bio=Deep within the Key Island Colossal, the monsters' music has grown richer and more powerful. Their songs echo through the vast chambers, creating a sound unlike anything heard above.
+
 island_SoftIsland=Soft Island
 island_SoftIsland_bio=TBA
+
+island_mirrorSoftIsland=Mirror Soft Island
+island_mirrorSoftIsland_bio=TBA
+
+island_undergroundSoftIsland=Soft Island Underground
+island_undergroundSoftIsland_bio=TBA
+
 island_EggstravaganzaIsland=Eggstravaganza Island
 island_EggstravaganzaIsland_bio=TBA
+
 island_PedoPlayground=Pedo Playground
-island_PedoPlayground_bio=The Pedo Playground is a luring device created by Arvout and Riffraff to lure little kids to. They are able to do this by creating music helped by the victims they've groomed. A bunch of pedos and kids come and by but the ones who stay are the one who make the impact. Every pedo in here has a backstory that they talk about on Friday Bingo nights and it's fairly peaceful despite everyone's varying levels of weirdness.\nIsland created by Ustrel
+island_PedoPlayground_bio=The Pedo Playground is a luring device created by Arvout and Riffraff to lure little kids to. They are able to do this by creating music helped by the victims they've groomed. A bunch of pedos and kids come and by but the ones who stay are the one who make the impact. Every pedo in here has a backstory that they talk about on Friday Bingo nights and it's fairly peaceful despite everyone's varying levels of weirdness.\nIsland idea created by Ustrel
