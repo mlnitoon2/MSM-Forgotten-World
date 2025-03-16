@@ -92,7 +92,7 @@
           "animation_tracks": ["LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1"]
         }
       },
-      "spritesheet": "monster_F_sheet",
+      "spritesheet": "monster_F_sheet 1",
       "idle_animation": "Lockrock_Idle",
       "mute_animation": "Lockrock_Mute",
       "controller": "Lockrock"
