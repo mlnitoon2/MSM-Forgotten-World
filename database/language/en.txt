@@ -60,6 +60,24 @@ pedo_fero_bio=Fero is a schizophrenic friend who makes people cut. She had a tas
 
 string_unfinishedIsland=This island is unfinished! Some monsters may not sing or have bad/broken animations!
 
+string_loading_internetConnection=Checking Internet Connection
+string_loading_checkBanList=Checking Ban List
+string_loading_banned=You Are Banned! Reason:
+string_loading_dbVersions=Loading Database Versions
+string_loading_language=Loading Language
+string_loading_islandList=Loading Island List
+string_loading_gameConfig=Loading Game Config
+string_loading_tooLowVersion=Your game version is too low. Taking you to the latest version download page in
+string_loading_updateCheck=Checking for updates
+string_loading_updates=Downloading Updates
+string_loading_monsterData=Loading Monster Data
+string_loading_finish=Finishing Up
+string_loading_finalize=Finalizing
+string_loading_island=Heading to Island
+
+string_err_updates=Error Downloading Updates!
+string_err_updates2=Error Downloading Update File!
+
 island_MainGame=Key Island
 island_MainGame_bio=The first island discovered in the Forgotten World, Key Island is home to the mysterious Key Elemental monsters. Here, ancient rhythms and new discoveries shape the music of this land.
 island_SoftIsland=Soft Island
