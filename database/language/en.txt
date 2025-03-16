@@ -59,6 +59,12 @@ string_unfinishedIsland=This island is unfinished! Some monsters may not sing or
 
 string_underground_confirmation=Are you sure you want to send this Monster to Underground <islandName>?
 string_underground_level=This Monster needs to be Level 20 to be sent to Underground <islandName>!
+string_underground_no=This Monster can't be sent to Underground <islandName>!
+string_underground_noVocalists=This Monster can't be sent to Underground <islandName> because it is a Vocalist!
+string_underground_success=The Monster has successfully been sent to Underground <islandName>!\nHeading to Underground <islandName>..
+string_underground_noResources=You don't have enough resources to send this Monster to Underground <islandName>!
+string_underground_existing=There is already a <monsterName> in Underground <islandName>!
+string_underground_space=There is no available space in Underground <islandName> for this Monster!
 
 string_loading_internetConnection=Checking Internet Connection
 string_loading_checkBanList=Checking Ban List
