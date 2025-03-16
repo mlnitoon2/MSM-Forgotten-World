@@ -11,6 +11,9 @@
     {
       "gene": "C",
       "db_name": "noggin",
+      "beds": 1,
+      "size_x": 2,
+      "size_y": 2,
       "beats": {
         "MainGame": {
           "audio_beats": [1, 8, 17, 24, 31, 38],
@@ -27,6 +30,12 @@
     {
       "gene": "D",
       "db_name": "toejammer",
+      "beds": 1,
+      "size_x": 2,
+      "size_y": 2,
+      "cost_coins": 250,
+      "cost_diamonds": 0,
+      "minimum_level": 1,
       "beats": {
         "MainGame": {
           "audio_beats": [],
@@ -43,6 +52,12 @@
     {
       "gene": "E",
       "db_name": "mammott",
+      "beds": 1,
+      "size_x": 2,
+      "size_y": 2,
+      "cost_coins": 250,
+      "cost_diamonds": 0,
+      "minimum_level": 1,
       "beats": {
         "MainGame": {
           "audio_beats": [],
@@ -59,6 +74,12 @@
     {
       "gene": "F",
       "db_name": "lockrock",
+      "beds": 1,
+      "size_x": 2,
+      "size_y": 2,
+      "cost_coins": 500,
+      "cost_diamonds": 0,
+      "minimum_level": 1,
       "beats": {
         "MainGame": {
           "audio_beats": [16, 24, 32, 40, 48, 56, 64],
@@ -70,7 +91,11 @@
           "audio_tracks": ["KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1", "KeyIslandLockrockT1"],
           "animation_tracks": ["LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1", "LockRock_KeyIsland_Track1"]
         }
-      }
+      },
+      "spritesheet": "monster_F_sheet",
+      "idle_animation": "Lockrock_Idle",
+      "mute_animation": "Lockrock_Mute",
+      "controller": "Lockrock"
     }
   ]
 }
