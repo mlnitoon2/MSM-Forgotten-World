@@ -5,6 +5,7 @@
     "game_version": "1.0.4",
     "minimum_game_version": "1.0.3",
     "reconnect_attempts": 3,
-    "latest_game_version_download_url": "https://www.mediafire.com/file/y38pdsvljbncdub/103.apk/file"
+    "latest_game_version_download_url": "https://www.mediafire.com/file/y38pdsvljbncdub/103.apk/file",
+    "kick_higher_version_if_not_admin": true
   }
 }
