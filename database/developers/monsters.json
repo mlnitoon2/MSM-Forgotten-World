@@ -79,6 +79,7 @@
       "size_y": 2,
       "cost_coins": 500,
       "cost_diamonds": 0,
+      "currency": "coins",
       "minimum_level": 1,
       "beats": {
         "MainGame": {
@@ -96,6 +97,87 @@
       "idle_animation": "Lockrock_Idle",
       "mute_animation": "Lockrock_Mute",
       "controller": "Lockrock"
+    },
+    {
+      "gene": "DEF",
+      "db_name": "bouldin",
+      "beds": 3,
+      "size_x": 2,
+      "size_y": 2,
+      "cost_coins": 0,
+      "cost_diamonds": 50,
+      "minimum_level": 3,
+      "currency": "diamonds",
+      "beats": {
+        "MainGame": {
+          "audio_beats": [1],
+          "animation_beats": [1]
+        }
+      },
+      "tracks": {
+        "MainGame": {
+          "audio_tracks": ["KeyIslandBouldinT1"],
+          "animation_tracks": ["Bouldin_KeyIsland_Track1"]
+        }
+      },
+      "spritesheet": "monster_DEF_sheet",
+      "idle_animation": "Bouldin_Idle",
+      "mute_animation": "Bouldin_Mute",
+      "controller": "bouldin"
+    },
+    {
+      "gene": "EF",
+      "db_name": "poeq",
+      "beds": 2,
+      "size_x": 2,
+      "size_y": 2,
+      "cost_coins": 0,
+      "cost_diamonds": 30,
+      "minimum_level": 2,
+      "currency": "diamonds",
+      "beats": {
+        "MainGame": {
+          "audio_beats": [16],
+          "animation_beats": [16]
+        }
+      },
+      "tracks": {
+        "MainGame": {
+          "audio_tracks": ["KeyIslandPoeqT1"],
+          "animation_tracks": ["Poeq_KeyIsland_Track1"]
+        }
+      },
+      "spritesheet": "monster_EF_sheet",
+      "idle_animation": "Poeq_Idle",
+      "mute_animation": "Poeq_Mute",
+      "controller": "monster_EF_sheet" 
+    },
+    {
+      "gene": "CDEF",
+      "db_name": "didgeridoo",
+      "beds": 2,
+      "size_x": 2,
+      "size_y": 2,
+      "cost_coins": 0,
+      "cost_diamonds": 100,
+      "minimum_level": 4,
+      "currency": "diamonds",
+      "beats": {
+        "MainGame": {
+          "audio_beats": [1],
+          "animation_beats": [1]
+        }
+      },
+      "tracks": {
+        "MainGame": {
+          "audio_tracks": ["KeyIslandQuadT1"],
+          "animation_tracks": ["Didgeridoo_KeyIsland_Track1"]
+        }
+      },
+      "spritesheet": "monster_CDEF_sheet",
+      "idle_animation": "Didgeridoo_Idle",
+      "mute_animation": "Didgeridoo_Mute",
+      "controller": "monster_CDEF_sheet" 
     }
   ]
 }
